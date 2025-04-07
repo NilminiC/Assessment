@@ -7,7 +7,8 @@ All the requests are in one Postman collection
 Question 2:
 Done by using : Intellj IDE and need puglins of cucumber
 - Structure - POM model
-- OOP concept - Encapsulation 
+- OOP concept - Encapsulation
+- Java + selenium + testng + maven 
 - Cucumber creats BDD , feature file help user friendliness
 - Mapped as : Feature  --> StepDefinition class --> Pages class
 - Note : as 'From' country dropdown is not selectable or change country i wrote it as negative step so it will return false
